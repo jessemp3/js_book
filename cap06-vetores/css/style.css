@@ -1,0 +1,36 @@
+.normal {
+    float: left;
+    height: 300px;
+    width: 300px;
+  }
+  
+.alta{
+    float: left;
+    height: 420px;
+    width: 300px;
+    padding-right: 40px;
+}
+
+  h1{
+    border-bottom-style: inset;
+  }
+  
+  pre {
+    font-size: 1.2em;
+  }
+
+.font-blue{
+    color: blue;
+}
+
+.oculta{
+    display: none;
+}
+
+.exibe{
+    display: inline;
+}
+
+.italico{
+    font-style: italic;
+}
